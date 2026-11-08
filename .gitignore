@@ -1,0 +1,13 @@
+.DS_Store
+candidate_profile.json
+application_rules.md
+resume_routing.md
+answer_bank.md
+*.pdf
+*.docx
+*.xlsx
+*.sqlite
+*.db
+private/
+workspace/
+outputs/

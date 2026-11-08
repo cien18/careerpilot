@@ -1,0 +1,4 @@
+interface:
+  display_name: "ApplyPilot"
+  short_description: "Continue your stateful job-search workflow"
+  default_prompt: "Use $applypilot to continue my job search. Load my private profile, rules, resume routing, answer bank, and dashboard. If I have not set them up, help me create them. Screen roles, select truthful materials, and track outcomes under my authorization rules."
