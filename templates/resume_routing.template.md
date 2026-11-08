@@ -61,6 +61,7 @@ Fit labels:
 
 | Role family | Resume file path | Use for titles | Do not use for | Notes |
 |---|---|---|---|---|
+| Internships / Entry-level |  |  |  |  |
 | Product Manager |  |  |  |  |
 | AI Product / Growth |  |  |  |  |
 | Product Marketing |  |  |  |  |

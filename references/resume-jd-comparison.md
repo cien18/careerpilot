@@ -2,7 +2,7 @@
 
 Use this reference before selecting, auditing, or tailoring a resume for a job. It provides two optional screening audits. Treat it as a working strategy, not as a verified claim about any named company's internal hiring system.
 
-Run the Core-Lever Test in `resume-job-matching-and-tailoring.md` before either screening-path audit. The screening audits optimize evidence presentation; they must not upgrade methodological adjacency into domain-lever ownership.
+Use the matching standard in `resume-job-matching-and-tailoring.md` before either screening-path audit. For roles requiring ownership, the audits must not upgrade methodological adjacency into domain-lever ownership. For internships and entry-level roles, evaluate evidence appropriate to their stated requirements.
 
 ## Classify the Likely First Screen
 

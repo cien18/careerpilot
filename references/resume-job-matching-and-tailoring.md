@@ -2,7 +2,9 @@
 
 Read this reference before sourcing, ranking, recommending, selecting a resume for, or tailoring to a role for the candidate. Use the detailed framework primarily as internal reasoning; keep ordinary user-facing results concise.
 
-## Core-Lever Test — Binding Gate
+## Core-Lever Test — For Roles Requiring Ownership
+
+Use this test when the job expects the candidate to own or materially drive a business, product, or operating outcome. For internships and entry-level roles that do not require prior ownership, assess the stated skills, coursework, projects, internships, and learning potential instead. Do not impose a senior-level ownership requirement on a junior role.
 
 Before ranking a role highly, identify the **single business or product lever** the hiring manager is hiring this person to own. Require direct evidence that the candidate previously owned or materially drove the same lever or an operationally equivalent one.
 

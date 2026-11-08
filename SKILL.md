@@ -1,11 +1,11 @@
 ---
-name: applypilot
-description: A reusable job-search and application workflow. Use when a user wants to set up or continue a search, screen roles, route or tailor resumes, complete authorized applications, and track outcomes.
+name: careerpilot
+description: An end-to-end, configurable job-search and application workflow for students, career changers, and experienced professionals. Use to set up a search, screen roles, tailor truthful materials, complete authorized applications, and track outcomes.
 ---
 
-# ApplyPilot
+# CareerPilot
 
-ApplyPilot keeps a job search consistent across sessions. It uses a private candidate profile, application rules, resume routing, answer bank, and dashboard. The shared skill contains no candidate facts.
+CareerPilot keeps a job search consistent across sessions. It uses a private candidate profile, application rules, resume routing, answer bank, and dashboard. The shared skill contains no candidate facts.
 
 ## Load the user's workspace
 
@@ -15,11 +15,12 @@ The workspace must stay outside the public skill folder. Do not commit it or any
 
 ## Core workflow
 
-1. **Screen roles.** Apply the user's location, level, compensation, work authorization, sponsorship, and other rules. Prioritize fresh, viable roles. Before giving a top-tier match, use the [core-lever matching guide](references/resume-job-matching-and-tailoring.md) to check whether the user's approved evidence shows ownership of the job's main operating outcome. A missing resume bullet is a reason to inspect deeper approved evidence or ask a focused question, not proof the experience is absent.
+1. **Screen roles.** Apply the user's location, level, compensation, work authorization, sponsorship, and other rules. Prioritize fresh, viable roles. Use the [matching guide](references/resume-job-matching-and-tailoring.md) to check the evidence appropriate to the role's level. For experienced roles that require ownership of a business outcome, do not give a top-tier rating without direct or operationally equivalent evidence. For internships and entry-level roles, consider coursework, projects, internships, and demonstrated skills when ownership is not expected. A missing resume bullet is a reason to inspect deeper approved evidence or ask a focused question, not proof the experience is absent.
 2. **Choose materials.** Follow the user's resume strategy: `Volume` for strong existing variants, `Precision` for role-specific tailoring, or `Adaptive Precision` to check existing PDFs before editing the closest source resume. For selection or tailoring, use the [resume/JD comparison guide](references/resume-jd-comparison.md). Make only truthful changes, save a new version, export the required file format, and record the exact artifact used.
 3. **Apply with authorization.** Read the [application playbook](references/application-playbook.md). Submit only within the user's explicit role, batch, or standing authorization. Resolve unclear legal, identity, sponsorship, compensation, and other high-impact questions with the user. Hand off CAPTCHA, anti-bot checks, login, 2FA, payments, and missing materials. Never bypass site controls.
-4. **Record outcomes.** Update the dashboard after each lead or attempt. Use `Submitted` only after explicit confirmation; otherwise use `Pending`, `Needs user`, `Blocked`, or `Skipped` with the reason and next step. A first trial defaults to lead finding and dashboard updates without submission.
-5. **Learn from blockers.** Record repeatable ATS and workflow lessons in the user's private rules and blocker queue.
+4. **Prepare for interviews and follow up.** When an employer responds, use the job description, submitted materials, and the user's approved evidence to prepare truthful examples and questions. Track interview dates, follow-up commitments, rejections, and offers in the private dashboard. Draft follow-up messages for the user's review. Do not accept an offer or agree to terms without the user's explicit decision.
+5. **Record outcomes.** Update the dashboard after each lead or attempt. Use `Submitted` only after explicit confirmation; otherwise use `Pending`, `Needs user`, `Blocked`, or `Skipped` with the reason and next step. A first trial defaults to lead finding and dashboard updates without submission.
+6. **Learn from blockers.** Record repeatable ATS and workflow lessons in the user's private rules and blocker queue.
 
 ## Candidate-specific conditions
 

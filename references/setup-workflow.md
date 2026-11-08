@@ -1,6 +1,6 @@
 # Setup Workflow
 
-Use this reference when initializing ApplyPilot for a new user or refreshing their job-search operating system.
+Use this reference when initializing CareerPilot for a new user or refreshing their job-search operating system.
 
 This document is the agent's SOP, not a form for the user to complete manually. Guide the user through setup conversationally. Draft files and templates for them whenever possible.
 
@@ -32,7 +32,7 @@ For a first run, collect only:
 - Work authorization and sponsorship rules.
 - Resume files and file formats.
 - Resume mode: Volume or Precision. Default to Volume.
-- Voluntary self-ID strategy: tell the user that if they do not choose, ApplyPilot will default to `Prefer not to say` / decline / leave blank when available.
+- Voluntary self-ID strategy: tell the user that if they do not choose, CareerPilot will default to `Prefer not to say` / decline / leave blank when available.
 - Custom answer policy: draft first, ask once before reuse.
 - Must-skip rules.
 - Intended job boards/accounts.
@@ -179,7 +179,7 @@ If the user is unsure, recommend Volume mode:
 - Use short, low-friction applications.
 - Promote a specific high-fit role to Precision when it is worth extra work.
 
-ApplyPilot can use external fit signals from tools like Jobright or Simplify when the user already uses them. These tools are optional, not required.
+CareerPilot can use external fit signals from tools like Jobright or Simplify when the user already uses them. These tools are optional, not required.
 
 If no external fit score is available, estimate fit qualitatively from:
 
@@ -259,7 +259,7 @@ Voluntary self-ID strategy:
 - During onboarding, ask only for the user's strategy, not detailed identity answers.
 - Default to `Prefer not to say`, decline, or leave blank when available.
 - If the user wants exact answers used, store them only in their private candidate profile.
-- If the user does not choose a strategy, explicitly tell them ApplyPilot will default to non-disclosure and will not guess identity information.
+- If the user does not choose a strategy, explicitly tell them CareerPilot will default to non-disclosure and will not guess identity information.
 
 Custom answer policy:
 
